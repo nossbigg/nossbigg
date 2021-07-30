@@ -18,6 +18,7 @@ _Sites_
 
 _Writings_
 
+- [How We Cut GrabFood.com’s Page JavaScript Asset Sizes by 3x](https://engineering.grab.com/grabfood-bundle-size)
 - [Tips on Speeding Up Frontend TypeScript Builds](https://nossbigg.github.io/2019/11/15/tips-speeding-up-frontend-typescript-builds.html)
 - [How to: React SSR Next.js + Google reCAPTCHA v3](https://nossbigg.github.io/2020/10/17/howto-react-ssr-nextjs-recaptcha.html)
 - [Anatomy of a Webpack Loader](https://nossbigg.github.io/2021/05/30/anatomy-webpack-loader.html)
