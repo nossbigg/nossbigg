@@ -10,6 +10,7 @@ _Libraries_
 - [`jest-mock-chain-fn`](https://github.com/nossbigg/jest-mock-chain-fn): Snapshot testing with chained functions + more!
 - [`i18n-locales-loader`](https://github.com/nossbigg/i18n-locales-loader): A `webpack` loader to support lazy-loaded locale XHR loading
 - [`react-native-ios-keyboard-events`](https://github.com/nossbigg/react-native-ios-keyboard-events): A `react-native` library to detect iOS keyboard split events
+- [`peerdeps-manager`](https://github.com/nossbigg/peerdeps-manager): A simple CLI utility to install (and uninstall) your `node` peer dependencies to your dev dependencies
 
 _Sites_
 
