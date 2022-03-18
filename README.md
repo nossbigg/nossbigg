@@ -1,6 +1,6 @@
 Hi there 👋, thanks for stopping by!
 
-I'm **Gibson**, a 🍔 Fullstack Engineer at [@SafetyCulture](https://safetyculture.com/) 🙃
+I'm **Gibson**, a 🛠 Software Engineer at [@BizPay](https://www.bizpay.com/) 🙃
 
 Here's some of my works 😅:
 
