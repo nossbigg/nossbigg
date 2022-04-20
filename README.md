@@ -7,6 +7,7 @@ Here's some of my works 😅:
 _Libraries_
 
 - [`eslint-plugin-clean-code-react`](https://github.com/nossbigg/eslint-plugin-clean-code-react): ESLint rules to keep your React components squeaky clean ✨🧼
+- [`eslint-workflows`](https://github.com/nossbigg/eslint-workflows): Surgically mute ESLint errors at scale 🤫⚡️
 - [`jest-mock-curry-fn`](https://github.com/nossbigg/jest-mock-curry-fn): Easy testing with curried functions
 - [`jest-mock-chain-fn`](https://github.com/nossbigg/jest-mock-chain-fn): Snapshot testing with chained functions + more!
 - [`i18n-locales-loader`](https://github.com/nossbigg/i18n-locales-loader): A `webpack` loader to support lazy-loaded locale XHR loading
