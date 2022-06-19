@@ -1,8 +1,8 @@
 Hi there 👋, thanks for stopping by!
 
-I'm **Gibson**, a 🛠 Software Engineer at [@BizPay](https://www.bizpay.com/) 🙃
+I'm **Gibson**, a Tech Lead at [@:Different](https://different.com.au/) 
 
-Here's some of my works 😅:
+Here's some of my works 🚂:
 
 _Libraries_
 
