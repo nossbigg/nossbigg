@@ -1,6 +1,6 @@
 Hi there 👋, thanks for stopping by!
 
-I'm **Gibson**, a Tech Lead at [@:Different](https://different.com.au/) 
+I'm **Gibson**, a Software Engineer at [Guzman y Gomez](https://www.guzmanygomez.com.au/) 
 
 Here's some of my works 🚂:
 
